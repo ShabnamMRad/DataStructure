@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Career/ProjectsTech/GitRepoPractice/DataStructure/cpp/LinkedList/src/LinkedList/LinkedList.cpp
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+LinkedList.hpp
+E:/Career/ProjectsTech/GitRepoPractice/DataStructure/cpp/LinkedList/src/LinkedList/LinkedList.hpp
+
+E:/Career/ProjectsTech/GitRepoPractice/DataStructure/cpp/LinkedList/src/LinkedList/LinkedList.hpp
+
